@@ -1,0 +1,497 @@
+{
+    "img": [],
+    "maxiBox": [
+      {
+        "id": 1,
+        "maxiImg": "https://firebasestorage.googleapis.com/v0/b/fir-crud-d5fa3.appspot.com/o/68352497-3ec8-45c9-94fd-2e8258ed916c.webp?alt=media&token=a0173cc9-12ba-471e-8b82-429c6864b964",
+        "maxiTitle": "Maxi BOX An'anaviy",
+        "maxiBody": "Original sendvich, kartoshka fri, 0,4 l kola, tanlash uchun sous",
+        "maxiPrice": 35000
+      },
+      {
+        "id": 2,
+        "maxiImg": "https://firebasestorage.googleapis.com/v0/b/fir-crud-d5fa3.appspot.com/o/68352497-3ec8-45c9-94fd-2e8258ed916c.webp?alt=media&token=a0173cc9-12ba-471e-8b82-429c6864b964",
+        "maxiTitle": "Maxi BOX Taniqli",
+        "maxiBody": "Original lavash, kartoshka fri, 0,4 l kola, tanlash uchun sous",
+        "maxiPrice": 40000
+      },
+      {
+        "id": 3,
+        "maxiImg": "https://firebasestorage.googleapis.com/v0/b/fir-crud-d5fa3.appspot.com/o/68352497-3ec8-45c9-94fd-2e8258ed916c.webp?alt=media&token=a0173cc9-12ba-471e-8b82-429c6864b964",
+        "maxiTitle": "Maxi BOX Retro",
+        "maxiBody": "Shawarma Original, kartoshka fri, 0,4 l kola, tanlash uchun sous",
+        "maxiPrice": 35000
+      },
+      {
+        "id": 4,
+        "maxiImg": "https://firebasestorage.googleapis.com/v0/b/fir-crud-d5fa3.appspot.com/o/68352497-3ec8-45c9-94fd-2e8258ed916c.webp?alt=media&token=a0173cc9-12ba-471e-8b82-429c6864b964",
+        "maxiTitle": "Max BOX Panini",
+        "maxiBody": "Original panini, kartoshka fri, 0,4 l kola, tanlash uchun sous",
+        "maxiPrice": 38000
+      },
+      {
+        "id": 5,
+        "maxiImg": "https://firebasestorage.googleapis.com/v0/b/fir-crud-d5fa3.appspot.com/o/68352497-3ec8-45c9-94fd-2e8258ed916c.webp?alt=media&token=a0173cc9-12ba-471e-8b82-429c6864b964",
+        "maxiTitle": "Maxi BOX Trend",
+        "maxiBody": "Gamburger, kartoshka fri, 0,4 l kola, tanlash uchun sous",
+        "maxiPrice": 35000
+      },
+      {
+        "id": 6,
+        "maxiImg": "https://firebasestorage.googleapis.com/v0/b/fir-crud-d5fa3.appspot.com/o/68352497-3ec8-45c9-94fd-2e8258ed916c.webp?alt=media&token=a0173cc9-12ba-471e-8b82-429c6864b964",
+        "maxiTitle": "Mini BOX",
+        "maxiBody": "Longer, kartoshka fri, coca-cola 0,3, tanlovga ko'ra sous",
+        "maxiPrice": 35000
+      },
+      {
+        "maxiImg": "blob:http://localhost:3001/64c87ff9-5f11-4124-bdfc-8901d705daab",
+        "maxiTitle": "Maxi Box",
+        "maxiBody": "Original adasda adas da d ad dasda egsdnf laljalj kl ljslkdjasjd oaj ",
+        "maxiPrice": "5000",
+        "id": 7
+      }
+    ],
+    "sendvich": [
+      {
+        "id": 1,
+        "sendvichImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F033adb7c-0289-4f80-a0a9-05fda8e23bc5&w=1920&q=75",
+        "sendvichTitle": "Klab sendvich",
+        "sendvichBody": "Original sendvich, kartoshka fri, tanlash uchun sous",
+        "sendvichPrice": 30000
+      },
+      {
+        "id": 2,
+        "sendvichImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F6e75db0d-01c9-47e3-b178-0a2e61cd46fb&w=1920&q=75",
+        "sendvichTitle": "Sendvich Original",
+        "sendvichBody": "Toster non, tovuq shnitseli, yangi bodring, pomidor, klab sousi, Xoxland pishloq",
+        "sendvichPrice": 25000
+      }
+    ],
+    "lavash": [
+      {
+        "id": 1,
+        "lavashImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fdc9f9ebc-157f-4cd2-b9cc-1087eb9ded8c&w=1920&q=75",
+        "lavashTitle": "Lavash standart klassik",
+        "lavashBody": "Lavash, beef donard, tomato, chips, tomato sauce, mayonnaise",
+        "lavashPrice": 27000
+      },
+      {
+        "id": 2,
+        "lavashImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fdc9f9ebc-157f-4cd2-b9cc-1087eb9ded8c&w=1920&q=75",
+        "lavashTitle": "Lavash mini pishloqli",
+        "lavashBody": "Pita, mol go'shti-donar, pomidor, chiplar, pomidor sousi, mayonez, Xoxland pishloq",
+        "lavashPrice": 27000
+      }
+    ],
+    "shaurma": [
+      {
+        "id": 1,
+        "shaurmaImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F97cbb3cc-de5f-4adb-88c6-349caa05113e&w=1920&q=75",
+        "shaurmaTitle": "Shaurma klassik",
+        "shaurmaBody": "Donar bulochka, mol go'shti-donar, tuzlangan bodring, pomidor, pomidor sousi",
+        "shaurmaPrice": 25000
+      }
+    ],
+    "donarkebab": [
+      {
+        "id": 1,
+        "donarkebabImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F9a011670-d917-442b-8e3b-4d6413294bd8&w=1920&q=75",
+        "donarkebabTitle": "Donar kebab",
+        "donarkebabBody": "Mol go'shti donari-go'sht, makkajo'xori bilan guruch, kartoshka fri, qizil karam salati, ziravorlar sousi",
+        "donarkebabPrice": 40000
+      },
+      {
+        "id": 2,
+        "donarkebabImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Ff5d119c7-59aa-4583-9975-47e3622c477f&w=1920&q=75",
+        "donarkebabTitle": "Donar Box",
+        "donarkebabBody": "Mol go'shti donari-go'sht, kartoshka fri, guruch",
+        "donarkebabPrice": 35000
+      },
+      {
+        "id": 3,
+        "donarkebabImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fb635bf94-1232-4638-813c-926521452268&w=1920&q=75",
+        "donarkebabTitle": "Donar BOX + 0.4 Coca cola\n",
+        "donarkebabBody": "Mol go'shti donari-go'sht, kartoshka fri, guruch, 0.4l quyma kola",
+        "donarkebabPrice": 40000
+      },
+      {
+        "id": 4,
+        "donarkebabImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fa16f5b4d-5c74-494f-a905-67d3d2edb4d6&w=1920&q=75",
+        "donarkebabTitle": "Non",
+        "donarkebabBody": "Yumshoq bulochka\n\n",
+        "donarkebabPrice": 3000
+      }
+    ],
+    "panini": [
+      {
+        "id": 1,
+        "paniniImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F5704972a-c6bd-4eb9-bb22-33b84ba0f264&w=1920&q=75",
+        "paniniTitle": "Panini klassik",
+        "paniniBody": "Bulochka, mol go'shti-donar, tuzlangan bodring, pomidor, pomidor sousi, ranch sousi",
+        "paniniPrice": 25000
+      }
+    ],
+    "burger": [
+      {
+        "id": 1,
+        "burgerImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F33f3c109-bbca-40a1-8d68-455a6f88b1f0&w=1920&q=75",
+        "burgerTitle": "Gamburger",
+        "burgerBody": "Burger bulochkasi, tuzlangan bodring, pomidor, go'shtli Patti, qizil piyoz, aysberg, Burger sousi",
+        "burgerPrice": 22000
+      },
+      {
+        "id": 2,
+        "burgerImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Ffa034d3e-a445-4068-9475-05e71706910b&w=1920&q=75",
+        "burgerTitle": "Chizburger",
+        "burgerBody": "Burger bulochkasi, tuzlangan bodring, pomidor, go'shtli Patti, qizil piyoz, aysberg, Burger sousi",
+        "burgerPrice": 25000
+      },
+      {
+        "id": 3,
+        "burgerImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F33f3c109-bbca-40a1-8d68-455a6f88b1f0&w=1920&q=75",
+        "burgerTitle": "Bigburger",
+        "burgerBody": "Burger bulochkasi, tuzlangan bodring, pomidor, 2 ta go'shtli Patti, qizil piyoz, aysberg, Burger sousi, Xoxland pishloq",
+        "burgerPrice": 35000
+      }
+    ],
+    "hotdog": [
+      {
+        "id": 1,
+        "hotdogImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fd0bdc39c-79ed-4b5a-8652-1ba740c4ad27&w=1920&q=75",
+        "hotdogTitle": "Longer",
+        "hotdogBody": "Ma'lumot: xot-dog bulochkasi, sous, naggetslar, tuzlangan bodringlar, aysberg",
+        "hotdogPrice": 22000
+      },
+      {
+        "id": 2,
+        "hotdogImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F2cfb43e6-0ef1-48e0-a9ef-ceffd5b876b5&w=1920&q=75",
+        "hotdogTitle": "Hot Dog",
+        "hotdogBody": "Hot-dog bulochkasi, Kanada kolbasasi, tuzlangan bodring, pomidor, aysberg, Hot-dog sousi",
+        "hotdogPrice": 12000
+      },
+      {
+        "id": 3,
+        "hotdogImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fd2f9a825-3388-459b-b5c2-80371f13df28&w=1920&q=75",
+        "hotdogTitle": "King Dog",
+        "hotdogBody": "Hot-dog bulochkasi, 2 ta kanadalik kolbasa, tuzlangan bodring, pomidor, aysberg, Xoxland pishloq",
+        "hotdogPrice": 2000
+      },
+      {
+        "id": 3,
+        "hotdogImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fb0262838-d524-4cd2-bee3-04b37f4d509b&w=1920&q=75",
+        "hotdogTitle": "Chiz Dog",
+        "hotdogBody": "Hot-dog bulochkasi, kanadalik kolbasa, tuzlangan bodring, pomidor, aysberg, Xoxland pishloq, Hot-dog sousi",
+        "hotdogPrice": 15000
+      }
+    ],
+    "gazak": [
+      {
+        "id": 1,
+        "gazakImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fe302183c-5e83-4267-b6ff-ceb35c0ae15b&w=1920&q=75",
+        "gazakTitle": "Fri kartoshkasi",
+        "gazakBody": "",
+        "gazakPrice": 8000
+      },
+      {
+        "id": 2,
+        "gazakImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F5e891d3c-4b71-4282-b9e4-ca1f8c504e3e&w=1920&q=75",
+        "gazakTitle": "Po-derevenski",
+        "gazakBody": "",
+        "gazakPrice": 14000
+      },
+      {
+        "id": 3,
+        "gazakImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fa35994b6-f935-4a0a-beaa-ec4d7e3a3f80&w=1920&q=75",
+        "gazakTitle": "Miks BOX",
+        "gazakBody": "Ma'lumot: kartoshka fri 60 g, naggetslar 4 dona, stripslar 2 dona",
+        "gazakPrice": 23000
+      },
+      {
+        "id": 4,
+        "gazakImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F34e38634-2c04-4f43-8e7b-199f4feac105&w=1920&q=75",
+        "gazakTitle": "Stripslar L(7)",
+        "gazakBody": "",
+        "gazakPrice": 15000
+      },
+      {
+        "id": 4,
+        "gazakImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F47744188-6d4a-48f8-9038-2341cfe15437&w=1920&q=75",
+        "gazakTitle": "Naggets",
+        "gazakBody": "",
+        "gazakPrice": 15000
+      }
+    ],
+    "drink": [
+      {
+        "id": 1,
+        "drinkImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F5c7b84d9-a8ea-4f68-9baf-d985256428a2&w=1920&q=75",
+        "drinkTitle": "Ays-ti",
+        "drinkBody": "",
+        "drinkPrice": 15000
+      },
+      {
+        "id": 2,
+        "drinkImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F91f72331-571c-45b8-9745-b2b961ed5e0d&w=1920&q=75",
+        "drinkTitle": "Coca Cola (quyma)",
+        "drinkBody": "",
+        "drinkPrice": 6000
+      },
+      {
+        "id": 3,
+        "drinkImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Feefc67f4-9e14-4635-a174-4c5c6483744f&w=1920&q=75",
+        "drinkTitle": "Coca Cola",
+        "drinkBody": "",
+        "drinkPrice": 8000
+      },
+      {
+        "id": 4,
+        "drinkImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fe844f9a0-19ee-427b-a78a-d7cfebbec408&w=1920&q=75",
+        "drinkTitle": "Fanta",
+        "drinkBody": "",
+        "drinkPrice": 8000
+      },
+      {
+        "id": 5,
+        "drinkImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F4af4d45b-6a1e-4e9c-976a-7cd5348d7efc&w=1920&q=75",
+        "drinkTitle": "Fuse tea",
+        "drinkBody": "",
+        "drinkPrice": 8000
+      },
+      {
+        "id": 6,
+        "drinkImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F58c745c9-cf0c-442a-a6d9-963e5aabc362&w=1920&q=75",
+        "drinkTitle": "Sharbat Dena",
+        "drinkBody": "",
+        "drinkPrice": "15 000"
+      },
+      {
+        "id": 7,
+        "drinkImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F6a9fbb14-0225-4309-b4d7-549fb8dd834b&w=1920&q=75",
+        "drinkTitle": "Bonaqua",
+        "drinkBody": "",
+        "drinkPrice": "3 000"
+      },
+      {
+        "id": 8,
+        "drinkImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F3ae92eaf-c56e-4db7-9c5b-f658bc595144&w=1920&q=75",
+        "drinkTitle": "Qora choy",
+        "drinkBody": "Qora choy (ta’bga kora shakar)",
+        "drinkPrice": "3 000"
+      },
+      {
+        "id": 9,
+        "drinkImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F62b72bbe-d73a-4eb2-baf7-054f05b53464&w=1920&q=75",
+        "drinkTitle": "Ko'k choy",
+        "drinkBody": "Ko’k choy (ta’bga kora shakar)",
+        "drinkPrice": "3 000"
+      },
+      {
+        "id": 10,
+        "drinkImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F50ef85c7-5056-4842-8459-b5e4fb3ec402&w=1920&q=75",
+        "drinkTitle": "Limonli choy",
+        "drinkBody": "Limonli choy (ta’bga ko'ra  shakar)",
+        "drinkPrice": "6 000"
+      },
+      {
+        "id": 11,
+        "drinkImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F9694f4fa-3a77-4fa8-ac41-aec0afca592d&w=1920&q=75",
+        "drinkTitle": "Amerikano",
+        "drinkBody": "Tabiiy donli qahva (espresso, suv)",
+        "drinkPrice": "10 000"
+      },
+      {
+        "id": 12,
+        "drinkImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F063c6ddf-77ed-4de8-b582-272239e0b3a7&w=1920&q=75",
+        "drinkTitle": "Kapuchino",
+        "drinkBody": "Tabiiy donli qahva (espresso, sut, suv)",
+        "drinkPrice": "12 000"
+      },
+      {
+        "id": 13,
+        "drinkImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F3c6acdc6-488a-46dd-877d-14143d416851&w=1920&q=75",
+        "drinkTitle": "Tabiiy donli qahva (espresso, sut, suv)",
+        "drinkBody": "",
+        "drinkPrice": "12 000"
+      },
+      {
+        "id": 14,
+        "drinkImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fbb5aa888-f006-4d52-aac6-38949456569e&w=1920&q=75",
+        "drinkTitle": "Bir martali stakan",
+        "drinkBody": "",
+        "drinkPrice": "1 000"
+      }
+    ],
+    "desert": [
+      {
+        "id": 1,
+        "desertImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Febf7f8ee-0181-4294-9be8-f9241e3cff08&w=1920&q=75",
+        "desertTitle": "Brauni",
+        "desertBody": "Qora shokolad, yong'oq va shokoladli pechene",
+        "desertPrice": "18 000"
+      },
+      {
+        "id": 2,
+        "desertImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fdd3eb9ef-b9e6-48ac-824a-66cfd0f39913&w=1920&q=75",
+        "desertTitle": "Tiramisu",
+        "desertBody": "Savoyardi pechene, mascarpone, qahva",
+        "desertPrice": "18 000"
+      },
+      {
+        "id": 3,
+        "desertImg": "https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F1ae33c55-cbd8-4d0a-b9a6-6a7624beca32&w=1920&q=75",
+        "desertTitle": "San-sebastian",
+        "desertBody": "Savoyardi kukilari, mascarpone, kahva",
+        "desertPrice": "20 000"
+      }
+    ],
+    "branches": [
+      {
+        "id": 1,
+        "name": "MAX WAY MEGA PLANET",
+        "time": "03:00",
+        "street": "улица Ниязбек, 1",
+        "workTime": "10:00-03:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 2,
+        "name": "MAX WAY AVIASOZLAR",
+        "time": "03:00",
+        "street": "улица Авиасозлар, 23",
+        "workTime": "10:00-03:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 3,
+        "name": "MAX WAY RISOVIY",
+        "time": "03:00",
+        "street": "Узбекистан, Ташкент, Алтынкульская улица, 10",
+        "workTime": "10:00-03:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 4,
+        "name": "MAX WAY PARUS",
+        "time": "03:00",
+        "street": "улица Катартал, 60/5",
+        "workTime": "10:00-03:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 5,
+        "name": "MAX WAY MAGIC CITY",
+        "time": "22:00",
+        "street": "Узбекистан, Ташкент, улица Бабура, 174/6",
+        "workTime": "10:00-22:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 6,
+        "name": "MAX WAY SAMARQAND DARVOZA",
+        "time": "22:00 ",
+        "street": "Узбекистан, Ташкент, улица Коратош, 5А",
+        "workTime": "10:00-22:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 7,
+        "name": "MAX WAY UNIVERSAM",
+        "time": "21:00",
+        "street": "Узбекистан, Ташкент, проспект Амира Темура, 41/3",
+        "workTime": "10:00-21:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 8,
+        "name": "MAX WAY ROYSON",
+        "time": "01:00",
+        "street": "екистан, Ташкент, улица Заркайнар, 2",
+        "workTime": "10:00-01:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 9,
+        "name": "MAX WAY NEXT",
+        "time": "22:00",
+        "street": "Узбекистан, Ташкент, улица Бабура, 6",
+        "workTime": "10:00-22:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 10,
+        "name": "MAX WAY MUQUMIY",
+        "time": "03:00",
+        "street": "Узбекистан, Ташкент, улица Чиланзар",
+        "workTime": "10:00-03:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 11,
+        "name": "MAX WAY GRAND MIR",
+        "time": "03:00",
+        "street": "Узбекистан, Ташкент, улица Шота Руставели, 9А",
+        "workTime": "10:00-03:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 12,
+        "name": "MAX WAY SAYRAM",
+        "time": "03:00",
+        "street": "Узбекистан, Ташкент, улица Юнусота",
+        "workTime": "10:00-03:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 13,
+        "name": "MAX WAY MAKSIM GORKIY",
+        "time": "00:00",
+        "street": "махалля Элобод",
+        "workTime": "10:00-00:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 14,
+        "name": "MAX WAY SERGELI",
+        "time": "03:00",
+        "street": "Узбекистан, Ташкент, Сергелийский район, массив Сергели-VIIIА, 11",
+        "workTime": "10:00-03:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 15,
+        "name": "MAX WAY FONTAN",
+        "time": "03:00",
+        "street": "проспект Амира Темура",
+        "workTime": "10:00-03:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 16,
+        "name": "MAX WAY MINOR",
+        "time": "03:00",
+        "street": "MaxWay",
+        "workTime": "10:00-03:00",
+        "phone": "+998712005400"
+      },
+      {
+        "id": 17,
+        "name": "MAX WAY MEGA PLANET",
+        "time": "03:00",
+        "street": "улица Ниязбек, 1",
+        "workTime": "10:00-03:00",
+        "phone": "+998712005400"
+      }
+    ],
+    "order": [
+      {
+        "orderName": "Maxi BOX An'anaviy",
+        "orderImg": "https://firebasestorage.googleapis.com/v0/b/fir-crud-d5fa3.appspot.com/o/68352497-3ec8-45c9-94fd-2e8258ed916c.webp?alt=media&token=a0173cc9-12ba-471e-8b82-429c6864b964",
+        "orderPrice": 35000,
+        "orderCount": 4,
+        "id": 1
+      }
+    ],
+    "allPrice": {
+      "price": 140000
+    }
+  }
